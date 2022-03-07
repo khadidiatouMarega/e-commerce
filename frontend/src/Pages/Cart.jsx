@@ -5,7 +5,6 @@ import Annonce from '../Components/Annonce';
 import Footer from '../Components/Footer';
 import Navbar from '../Components/Navbar';
 import Newsletter from '../Components/Newsletter';
-// import { BrowserRouter as Router, Route, Link, Switch } from "react-router-dom";
 
 const Container1 = styled.div`
 `;

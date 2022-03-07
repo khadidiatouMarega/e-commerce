@@ -5,7 +5,6 @@ import Annonce from "./Annonce";
 import Navbar from "./Navbar";
 import Newsletter from "./Newsletter";
 import Footer from "./Footer";
-// import { mobile } from "../responsive";
 
 
 const Container1 = styled.div`

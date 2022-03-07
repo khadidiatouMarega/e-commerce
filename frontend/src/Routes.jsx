@@ -28,5 +28,3 @@ const LesRoutes = () => {
 }
 
 export default LesRoutes;
-
-// http://3.141.168.156/phpmyadmin/

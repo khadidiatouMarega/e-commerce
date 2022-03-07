@@ -106,37 +106,6 @@ const handleClick = (direction) => {
             </InfoContainer>
           </Slide>
             ))}
-          {/* <Slide bg="a299dbfd">
-            <ImgContainer>
-              <Image src={ShopGirl2} />
-            </ImgContainer>
-            <InfoContainer>
-              <Title>COLLECTION PRINTEMPS</Title>
-              <Desc>PAS DE COMPROMIS SUR VOTRE STYLE! BENEFICIEZ DE 30% DE REDUCTION SUR LES NOUVEAUX ARRIVAGES.</Desc>
-              <Button bg1="a299db">COMMENCER</Button>
-            </InfoContainer>
-          </Slide>
-
-          <Slide bg="f1aa1c">
-            <ImgContainer>
-              <Image src={ShopGirl4} />
-            </ImgContainer>
-            <InfoContainer>
-              <Title>SOLDES D'ETE</Title>
-              <Desc>PAS DE COMPROMIS SUR VOTRE STYLE! BENEFICIEZ DE 30% DE REDUCTION SUR LES NOUVEAUX ARRIVAGES.</Desc>
-              <Button bg1="f1aa1c">COMMENCER</Button>
-            </InfoContainer>
-          </Slide>
-          <Slide bg="d3d3d392">
-            <ImgContainer>
-              <Image src={ShopGirl6} />
-            </ImgContainer>
-            <InfoContainer>
-              <Title>ICI C'EST DEJA L'AUTOMNE</Title>
-              <Desc>PAS DE COMPROMIS SUR VOTRE STYLE! BENEFICIEZ DE 30% DE REDUCTION SUR LES NOUVEAUX ARRIVAGES.</Desc>
-              <Button bg1="d3d3d392">COMMENCER</Button>
-            </InfoContainer>
-          </Slide> */}
         </Wrapper>
         <Arrow direction="right"  onClick={()=>handleClick("right")}>
           <ArrowRightOutlined />

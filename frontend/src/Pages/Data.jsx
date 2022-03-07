@@ -7,14 +7,6 @@ import RobePull from "../Assets/rob-pull.png";
 import Pantalon from "../Assets/Panta.png";
 import Manteau from "../Assets/manteau2.png";
 import Sweat from "../Assets/sweat.png";
-// import TShirt from "../Assets/t-shirt.jpg";
-// import RobeSoiree from "../Assets/robe-sr1.png"
-// import RobeChambre from "../Assets/robe-ch.png";
-// import Sac from "../Assets/sac1.png";
-// import Scarpin from "../Assets/scrpin.png";
-// import Pull1 from "../Assets/pull1.png";
-// import PCropT from "../Assets/cropT.png";
-// import Jogging from "../Assets/Jgging1.png";
 import Pull2 from "../Assets/pp.jpg";
 import Parka from "../Assets/parka.png";
 
